@@ -24,7 +24,7 @@ Since then I pushed **10**+ commits, opened **5**+ issues, submitted **1**+ pull
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-Kumar-Sah&label=Profile%20views&color=0e75b6&style=flat" alt="raazzgupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raj-Kumar-Sah" alt="Raazzgupta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raajj-Kumar-Sah" alt="Raazzgupta" /></a> </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
